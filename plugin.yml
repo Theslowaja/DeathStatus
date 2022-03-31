@@ -1,0 +1,5 @@
+name: DeathStatus
+author: Theslowaja
+main: Theslowaja\DeathStatus\Ds
+api: 4.0.0
+version: 1.0.0
